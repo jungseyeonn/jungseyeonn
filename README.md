@@ -1,4 +1,6 @@
-My name is Jung Seyeon ✨
+<h3>
+  My name is Jung Seyeon ✨
+</h3>
 
 <!--
 **jungseyeonn/jungseyeonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
