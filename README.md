@@ -1,5 +1,6 @@
 <h3>
   My name is Jung Seyeon ✨
+  Please click on my 2ndProj repository :)
 </h3>
 
 <!--
